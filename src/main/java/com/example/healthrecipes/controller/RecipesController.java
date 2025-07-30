@@ -1,4 +1,4 @@
-package com.example.healthrecipes.conttoller;
+package com.example.healthrecipes.controller;
 
 import com.example.healthrecipes.model.Recipes;
 import com.example.healthrecipes.service.RecipesService;
